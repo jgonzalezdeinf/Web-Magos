@@ -55,7 +55,7 @@ section#gallery {
 
 section#gallery img {
   margin: 0 10px; 
-  width: 350px;
-  height: 300px;
+  width: 225px;
+  height: 200px;
   justify-content: center;
 }
